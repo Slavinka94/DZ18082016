@@ -1,0 +1,23 @@
+
+
+.body
+{
+    
+    min-width: 890px;
+    background-color:rgba(0, 191, 71, .5);
+    margin: auto;
+    text-align: center;
+
+
+}
+.div
+{
+    display: inline-block;
+    width: 400px;
+    height: 300px;
+    margin: 30px;
+    background-size: cover;
+    
+   }
+
+    
